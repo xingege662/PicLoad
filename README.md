@@ -26,5 +26,7 @@
 * 内存缓存 LruCache技术
 * 硬盘缓存技术DiskLruCache技术
 * 图片下载时请求转发
+
 流程图如下
 ---------
+![](https://github.com/xingege662/PicLoad/blob/master/Pic/Picture/stream_graph.png)
