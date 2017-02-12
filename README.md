@@ -33,4 +33,10 @@
 
 大体步骤图
 ---------
-![]();
+![](https://github.com/xingege662/PicLoad/blob/master/Pic/picture/framework.png);
+
+UML图
+-----
+![](https://github.com/xingege662/PicLoad/blob/master/Pic/picture/uml.png);
+
+上图有些模糊，在工程目录下的picture文件夹下可以找到。<br>
